@@ -31,7 +31,7 @@ Null - when the variable is intentionally empty i.e. "let a =null;".
 
 let myName = "Amir";
 // const myName = "Amir"
-console.log("This will show the value give to myName", myName);
+console.log("This will show the value given to myName", myName);
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
