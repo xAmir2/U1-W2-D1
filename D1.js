@@ -89,5 +89,5 @@ console.log(
 );
 console.log(
   "This will show that name1 and name2 are the same if they are lowercase",
-  name1.toLowerCase === name2.toLowerCase,
+  name1.toLowerCase() === name2.toLowerCase(),
 );
