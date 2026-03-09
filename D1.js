@@ -22,6 +22,7 @@ Undefined - when the variable exists but no value has been given yet i.e. "let a
 Null - when the variable is intentionally empty i.e. "let a =null;".
 
 */
+
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
