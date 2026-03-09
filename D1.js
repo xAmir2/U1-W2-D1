@@ -70,7 +70,7 @@ console.log("This is my surname", myName);
 
 /* SCRIVI QUI LA TUA RISPOSTA */
 
-let z = x - 4;
+let z = 4 - x;
 console.log("This will show the value of Z which is x - 4", z);
 
 /* ESERCIZIO 7
